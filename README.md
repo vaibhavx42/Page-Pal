@@ -26,19 +26,19 @@ This tool is developed in Python and uses PowerShell to extract the bookmarks fr
 - **Output Confirmation** ![final output file generation confirmed](https://user-images.githubusercontent.com/110530263/219830442-73f3c9a7-cb4e-4576-9ef2-bcbd9d53ded4.png)
 
 - Generated Output File ![generated output file ](https://user-images.githubusercontent.com/110530263/219696844-297e8380-98d7-4306-822b-0f9e2f564bbc.png)
- - As I chose HTML in input the script generated an html file showing my bookmarks with css pre defined. 
+ - As I chose HTML in input, the script generated an HTML file showing my bookmarks with css pre-defined. 
 
 
 ### Getting Started
-_To use this tool, you need to have Python installed on your computer. You can download Python from the official website: [Clickhere](https://www.python.org/downloads/_)
+_To use this tool, you must have python installed on your computer. You can download Python from the official website: [Clickhere](https://www.python.org/downloads/_)
 
 - Once you have Python installed, you can download the code for this tool and run it from the command line. Here are the steps:
 
-- 1.Clone or download the code for this tool.
-- 2.Open a command prompt or terminal window.
-- 3.Navigate to the directory where you downloaded the code.- 
-- 4.Run the following command: python bookmark_tool.py
-- 5.The tool will prompt you to choose a format for saving the bookmarks. You can choose HTML, PDF, or TXT. Once you choose a format, the tool will extract the bookmarks from Google Chrome and save them in the specified format.
+- 1. Clone or download the code for this tool.
+- 2. Open a command prompt or terminal window.
+- 3. Navigate to the directory where you downloaded the code.- 
+- 4. Run the following command: python bookmark_tool.py
+- 5. The tool will prompt you to choose a format for saving the bookmarks. You can choose HTML, PDF, or TXT. Once you choose a format, the tool will extract the bookmarks from Google Chrome and save them in the specified format.
 
 
 ### Author
