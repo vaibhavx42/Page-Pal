@@ -43,3 +43,7 @@ _To use this tool, you need to have Python installed on your computer. You can d
 
 ### Author
 Made by [Vaibhav](https://github.com/vaibhavx42/). Connect with me on [Twitter](https://twitter.com/__vxibhxv) or [LinkedIn](https://www.linkedin.com/in/bhardwajvaibhav42/).
+
+
+# ⭐️ `Star us`
+- **If you like our project and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
