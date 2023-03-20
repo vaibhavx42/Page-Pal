@@ -42,7 +42,7 @@ _To use this tool, you must have python installed on your computer. You can down
 
 
 ### Author
-Made by [Vaibhav](https://github.com/vaibhavx42/). Connect with me on [Twitter](https://twitter.com/__vxibhxv) or [LinkedIn](https://www.linkedin.com/in/bhardwajvaibhav42/).
+Made by [Vaibhav](https://github.com/vaibhavx42/). Connect with me on <a href="https://twitter.com/__vxibhxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__vxibhxv" height="30" width="40" /></a> or <a href="https://www.linkedin.com/in/bhardwajvaibhav42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-bhardwaj" height="30" width="40" /></a> .
 
 ### Contributors
 
