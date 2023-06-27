@@ -19,7 +19,7 @@ This tool is developed in Python and uses PowerShell to extract the bookmarks fr
 - tkinter
 
 ### Demonstration
-- **INPUT**
+- 
  ![input](https://user-images.githubusercontent.com/110530263/219696764-cadb43a9-de0f-45ff-8cec-efd6bba62151.png)
 - **Selecting A Format** ![output1 selector](https://user-images.githubusercontent.com/110530263/219830405-2879e4fa-41e9-400b-aa81-368d12451157.png)
 
