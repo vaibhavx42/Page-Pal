@@ -46,9 +46,10 @@ Made by [Vaibhav](https://github.com/vaibhavx42/). Connect with me on <a href="h
 
 ### Contributors
 
-[![Vaibhav Bhardwaj](https://avatars.githubusercontent.com/u/110530263?s=64)](https://github.com/vaibhavx42)
-[![Nikhil Mishra](https://avatars.githubusercontent.com/u/108953684?s=64)](https://github.com/mnik7044)
-[![Sumit Bikram Maity](https://avatars.githubusercontent.com/u/44345533?s=64)](https://github.com/SumitBikram)
+<a href="https://github.com/vaibhavx42/Page-Pal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vaibhavx42/Page-Pal" />
+</a>
+
 
 # ⭐️ `Star us`
 - **If you like our project and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
