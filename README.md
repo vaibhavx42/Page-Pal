@@ -56,4 +56,4 @@ Please take a loot at [contributors.md](https://github.com/vaibhavx42/Page-Pal/i
 
 
 # ⭐️ `Star us`
-- **If you like our project and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
+- **If you like our project and want to support us, please consider starring our repository as a token of appreciation. Thank you!!**
