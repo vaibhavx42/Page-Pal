@@ -1,4 +1,4 @@
-## Export Your Bookmarks Now!
+# Export Your Bookmarks Now!
 
 ### Goal
 The goal of this project is to provide an easy-to-use tool that extracts bookmarks from the Chrome bookmarks file and saves them in a user-specified format. 
